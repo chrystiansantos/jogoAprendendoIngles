@@ -1,27 +1,25 @@
-# App1
+# Jogo Aprendendo Inglês 👨‍🎓
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+### Um simples quiz implementado pra com intuindo de agregar conhecimentos tanto em **Angular** quanto **TypeScript**.
 
-## Development server
+### Com este projeto puder adiquirir um conhecimento básico e ampliar um pouco minhas skills, obtendo conhecimento nos seguintes assuntos:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Bootstrap.
+- Angular 2+.
+  - Componentização.
+  - EventEmmiter.
+  - @Input
+  - @Output
+- TypeScript
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Pra fazer a instalação e execução do projeto precisamos executar o seguinte comando:
 
-## Build
+```bash
+❯ gh repo clone Chrystiansantos/jogoAprendendoIngles && cd jogoAprendendoIngles && npm install && npx ng serve 
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Usage
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+https://user-images.githubusercontent.com/33062949/168197037-dc8b73e9-ff8d-4f4f-9a50-0693ae9c605a.mov
